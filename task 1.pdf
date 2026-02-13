@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>order types</title>
+    </head>
+    <body>
+        <h1>LIST TYPES:</h1>
+        <h2>UNORDERLIST</h2>
+        <ul>
+            <li>bmw</l>
+            <li>benz</l>
+            <li>ferrari</l>
+        </ul>
+        <h2>ORDERLIST</h2>
+        <ol>
+            <li>australia</li>
+            <li>england</li>
+            <li>newzland</li>
+        </ol>
+        <h2>DEFINATIONLIST</h2>
+        <dl>
+             <dt>HTML</dt>
+        <dd>HyperText Markup Language used to structure web content.</dd>
+
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets used to style web pages.</dd>
+
+        <dt>JavaScript</dt>
+        <dd>A programming language used to create interactive web pages.</dd>
+        </dl>
+        <h2>NESTEDLIST</h2>
+          
+    <ul>
+        <li>Hardware
+            <ul>
+                <li>CPU</li>
+                <li>RAM</li>
+                <li>Hard Drive</li>
+            </ul>
+        </li>
+        <li>Software
+            <ol>
+                <li>Operating System</li>
+                <li>Application Software</li>
+                <li>Utility Programs</li>
+            </ol>
+        </li>
+    </ul>
+
+    </body>
+</html>

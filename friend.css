@@ -1,0 +1,17 @@
+.img{
+    width: 200px;
+    height: 40px;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg");
+    background-size: cover;
+   
+}
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color:hwb(60 8% 91% / 0.788);
+    text-align: left;
+    font-style: italic;
+}
+
